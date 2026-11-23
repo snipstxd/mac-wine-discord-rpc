@@ -109,7 +109,7 @@ You need to run it each time you play, before the game. It has no window. It jus
 
 1. Open the **Discord** app on your Mac and make sure you're logged in.
 2. Start your game like you normally would.
-3. Look at your Discord profile. Your game's Rich Presence should appear once the game reaches its menu, which can take up to a minute while it loads.
+3. Look at your Discord profile. Your game's Rich Presence should appear once the game reaches its menu, which can take 1-2 minutes while it loads. Be patient on the first launch.
 
 Also check that Discord is allowed to show it: **Discord → User Settings → Activity Privacy → Share your detected activities with others** must be **on**.
 
